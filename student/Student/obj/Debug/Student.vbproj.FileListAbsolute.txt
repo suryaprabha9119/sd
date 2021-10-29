@@ -1,0 +1,29 @@
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\bin\Student.dll.config
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\bin\Student.dll
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\bin\Student.pdb
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\bin\Student.xml
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\obj\Debug\Student.Resources.resources
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\obj\Debug\Student.vbproj.GenerateResource.Cache
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\obj\Debug\Student.dll
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\obj\Debug\Student.xml
+C:\Users\smithy\Documents\Visual Studio 2013\Projects\Student\Student\obj\Debug\Student.pdb
+C:\Users\smithy\Desktop\spm lab\student\Student\bin\Student.dll.config
+C:\Users\smithy\Desktop\spm lab\student\Student\bin\Student.dll
+C:\Users\smithy\Desktop\spm lab\student\Student\bin\Student.pdb
+C:\Users\smithy\Desktop\spm lab\student\Student\bin\Student.xml
+C:\Users\smithy\Desktop\spm lab\student\Student\obj\Debug\Student.Resources.resources
+C:\Users\smithy\Desktop\spm lab\student\Student\obj\Debug\Student.vbproj.GenerateResource.Cache
+C:\Users\smithy\Desktop\spm lab\student\Student\obj\Debug\Student.dll
+C:\Users\smithy\Desktop\spm lab\student\Student\obj\Debug\Student.xml
+C:\Users\smithy\Desktop\spm lab\student\Student\obj\Debug\Student.pdb
+C:\Users\Surya\source\repos\student\Student\bin\Student.dll.config
+C:\Users\Surya\source\repos\student\Student\bin\Student.dll
+C:\Users\Surya\source\repos\student\Student\bin\Student.pdb
+C:\Users\Surya\source\repos\student\Student\bin\Student.xml
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.vbproj.AssemblyReference.cache
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.Resources.resources
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.vbproj.GenerateResource.cache
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.vbproj.CoreCompileInputs.cache
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.dll
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.xml
+C:\Users\Surya\source\repos\student\Student\obj\Debug\Student.pdb
